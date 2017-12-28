@@ -1,0 +1,17 @@
+{
+    "name": "Twitter2Slack",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Peter Soboyejo <thepcmrtim@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+    "console-stamp": "^0.2.5",
+    "slackbots": "^1.0.2",
+    "twitter": "^1.7.1",
+    "user-stream": "0.0.8"
+    }
+}

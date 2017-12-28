@@ -1,0 +1,24 @@
+{
+  "botName": "Twitter2Slack",
+  "color": "#3AA3E3",
+  "icon": "http://i.imgur.com/pFbDRDT.png",
+  "slackToken": "xxxx",
+  "slackChannel": "general",
+  "sendToChannel": true,
+  "twitters_to_track": [
+    "SumerMukhey",
+    "lmaomaxi",
+    "PaymentLinks"
+  ],
+  "twitter_consumer_key": "xxx",
+  "twitter_consumer_secret": "xxx",
+  "twitter_access_token_key": "xxx",
+  "twitter_access_token_secret": "xxx",
+  "direct_messages_slack": {
+    "active": true,
+    "users": [
+      "peter",
+      "zack"
+    ]
+  }
+}
